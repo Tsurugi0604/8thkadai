@@ -3,7 +3,17 @@
   <head>
     <meta charset="UTF-8">
     <title>情報処理８回</title>
+ <link rel="stylesheet" href="style.css">
   </head>
+  <h1>
+    東京の景色
+  </h1>
+  <h2>
+    渋谷から見える景色
+  </h2>
+  <p>
+    SHIBUYA SKYから見える景色
+  </p>
 h1 {
     color: red; /* h1の文字を赤にする */
 }
