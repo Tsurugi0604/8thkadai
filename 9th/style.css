@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>情報処理８回</title>
+  </head>
+h1 {
+    color: red; /* h1の文字を赤にする */
+}
+ 
+h2 {
+    color: blue; /* h2の文字を青にする */
+}
+ 
+p {
+    border: thin green solid; /* 段落に緑色の細い実線の枠を付ける */
+    margin: 1em 4em; /* 枠の外側の余白を、上下1em・左右4emにする */
+    padding: 0.5em; /* 枠の内側の余白を、上下左右0.5emにする */
+}
+<figure>
+  <img
+    src="Shibuya Scramble Square - SHIBUYA SKY 10.jpg"
+    alt="SHIBUYA SKYから見た景色"
+    width="600"
+  >
+  <figcaption>
+    <p>作者名
+    <a href="https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_Square_-_SHIBUYA_SKY_10.jpg">Kakidai</a>
+    </p> 
+    <p>元画像の掲載ページ
+      <a href=" https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_Square_-_SHIBUYA_SKY_10.jpg?uselang=ja" >wikimedia Commons</a>
+    </p>
+    <p>ライセンス名
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
+    </p>
+   <p>画像の変更
+    なし
+   </p>
+  </figcaption>
+</figure>
 
+</body>
+</html>
